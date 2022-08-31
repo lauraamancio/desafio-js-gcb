@@ -1,2 +1,3 @@
-# desafio-js-gcb
-Desafios de JavaScript propostos pela GCB Investimentos
+# Desafio de JavaScript GCB
+
+Lista de exercícios propostos pela GCB em seu processo seletivo do Academy.
